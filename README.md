@@ -1,11 +1,11 @@
 <p align="center"><img src="https://i.pinimg.com/originals/fc/a4/ee/fca4eef2c12056b9505784fe14620053.png" width="50%"></p>
 
-# Sobre o projeto
+## Sobre o projeto
 
 - Introdução à criação de webpages
 - Combinando linguagens da web
 
-# Linguagens
+## Linguagens
 
 - HTML5
 - CSS3
