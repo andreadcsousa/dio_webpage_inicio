@@ -1,6 +1,11 @@
-<img src="https://i.pinimg.com/originals/fc/a4/ee/fca4eef2c12056b9505784fe14620053.png" align="center" width="50%">
+<p align="center"><img src="https://i.pinimg.com/originals/fc/a4/ee/fca4eef2c12056b9505784fe14620053.png" width="50%"></p>
 
-# Introdução a criação de websites
+# Sobre o projeto
 
-- Aprendendo HTML 5 e CSS 3
-- Combinando linguagens de programação web
+- Introdução à criação de webpages
+- Combinando linguagens da web
+
+# Linguagens
+
+- HTML5
+- CSS3
