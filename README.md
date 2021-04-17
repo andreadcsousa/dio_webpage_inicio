@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.pinimg.com/originals/fc/a4/ee/fca4eef2c12056b9505784fe14620053.png" width="40%"></p>
-
 ## Sobre o projeto
 
 - Introdução à criação de webpages
@@ -9,3 +7,5 @@
 
 - HTML5
 - CSS3
+
+![Caption](https://files.cercomp.ufg.br/weby/up/342/o/em_construcao.jpg)
