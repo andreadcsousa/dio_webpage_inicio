@@ -31,6 +31,4 @@ Atualização da página com novos aprendizados:
 
 <img src="./files/depois.jpg" alt="" width="100%">
 
-Falta implementar:
-- Acessibilidade;
-- Responsividade.
+Falta implementar: Acessibilidade & Responsividade.
