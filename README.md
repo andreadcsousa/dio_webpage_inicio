@@ -7,8 +7,7 @@
 
 ## Linguagens Utilizadas
 
-<img src="./files/html.svg" width="200">
-<img src="./files/css.svg" width="200">
+<img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100">
 
 ### Primeira Versão
 
