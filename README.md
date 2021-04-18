@@ -7,10 +7,8 @@
 
 ## Linguagens Utilizadas
 
-<img width="20%" src="./files/shield.png" style="max-width:100%;">
-
-+ HTML5
-+ CSS3
+<img src="./files/html.svg" width="200">
+<img src="./files/css.svg" width="200">
 
 ### Primeira Versão
 
