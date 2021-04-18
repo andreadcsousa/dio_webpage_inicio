@@ -1,5 +1,4 @@
-<p align="center"><img src="./files/img-repo.png" width="200"></p>
-<p align="center">Insight .content {box-sizing: border-box;}</p>
+<p align="center"><img src="./files/img-repo.png" width="400"></p>
 
 
 ## Sobre o Projeto
