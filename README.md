@@ -10,14 +10,13 @@ Introdução à criação de página, combinando linguagens da web.
 
 ## Primeira Versão
 
-- HTML e CSS básico;
-- Imagens e links estilizados.
+HTML e CSS básico com imagens e links estilizados.
 
 <img src="./files/antes.jpg" width="100%">
 
 ## Inspiração
 
-- Modelo utilizado para atualização da página.
+Modelo utilizado para atualização da página.
 
 <img src="./files/inspiração.jpg" width="100%">
 
