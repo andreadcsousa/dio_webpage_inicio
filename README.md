@@ -1,4 +1,4 @@
-<img src="./files/sloth.svg" width="200" align="center">
+<img src="./files/sloth.svg" width="200" align-item="center">
 
 ## Sobre o Projeto
 
