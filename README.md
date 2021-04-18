@@ -7,7 +7,7 @@
 
 ## Linguagens Utilizadas
 
-<p align="right"><img src="./files/shield.png" width="100"></p>
+<img align="right" width="20%" src="./files/shield.png" style="max-width:100%;">
 
 + HTML5
 + CSS3
