@@ -10,6 +10,8 @@
 + HTML5
 + CSS3
 
+<img src="./files/shield.png">
+
 ### Primeira Versão
 
 - HTML e CSS básico;
