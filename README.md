@@ -30,8 +30,6 @@ Modelo utilizado para atualização da página.
 
 ## Versão Atual
  
-HTML semântico e identado | CSS com flexbox e hover | Comentários nos códigos | CSS em ordem alfabética
+HTML semântico e identado | CSS com flexbox e em ordem alfabética | Comentários nos códigos
 
 <img src="./files/depois.jpg" alt="" width="100%">
-
-Falta implementar: Acessibilidade & Responsividade.
