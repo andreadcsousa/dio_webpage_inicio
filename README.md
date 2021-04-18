@@ -2,7 +2,17 @@
 
 ## Sobre o Projeto
 
-Introdução à criação de página, combinando linguagens da web.
+"Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos." por Digital Innovation One Inc.
+
+Introdução a criação de websites com HTML5 e CSS3:
+- Introdução ao curso de HTML: Estrutura básica;
+- Entendendo o que é semântica e sua importância;
+- Como usar tags para textos e links em HTML;
+- Como inserir imagens no site com a tag img;
+- Como organizar listas com as tags ul, ol e li;
+- Introdução ao curso e conceitos básicos do CSS3;
+- Estilizando elementos, textos e listas com CSS;
+- Propriedades de dimensões e alinhamentos de itens.
 
 ## Linguagens Utilizadas
 
