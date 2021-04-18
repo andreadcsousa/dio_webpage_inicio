@@ -2,8 +2,6 @@
 
 ## Sobre o Projeto
 
-"Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos." por Digital Innovation One Inc.
-
 Introdução a criação de websites com HTML5 e CSS3:
 - Introdução ao curso de HTML: Estrutura básica;
 - Entendendo o que é semântica e sua importância;
