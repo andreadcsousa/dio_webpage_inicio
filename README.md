@@ -1,5 +1,5 @@
 <p align="center"><img src="./files/sloth.svg" width="150"></p>
-<p>Insight .content {box-sizing: border-box;}</p>
+<p align="center">Insight .content {box-sizing: border-box;}</p>
 
 
 ## Sobre o Projeto
