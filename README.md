@@ -1,6 +1,6 @@
 <p align="center"><img src="./files/img-repo.png" width="600"></p>
 
-## Sobre o Projeto
+# Sobre o Curso
 
 Introdução a criação de websites com HTML5 e CSS3:
 - Introdução ao curso de HTML - Estrutura básica;
@@ -12,7 +12,7 @@ Introdução a criação de websites com HTML5 e CSS3:
 - Estilizando elementos, textos e listas com CSS;
 - Propriedades de dimensões e alinhamentos de itens.
 
-## Linguagens Utilizadas
+# Linguagens Utilizadas
 
 <img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100">
 
@@ -27,7 +27,6 @@ HTML e CSS básico com imagens e links estilizados.
 Modelo utilizado para atualização da página.
 
 <img src="./files/inspiração.jpg" width="100%">
-
 
 ## Versão Atual
  
