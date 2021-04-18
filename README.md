@@ -3,7 +3,7 @@
 ## Sobre o Projeto
 
 Introdução a criação de websites com HTML5 e CSS3:
-- Introdução ao curso de HTML: Estrutura básica;
+- Introdução ao curso de HTML - Estrutura básica;
 - Entendendo o que é semântica e sua importância;
 - Como usar tags para textos e links em HTML;
 - Como inserir imagens no site com a tag img;
@@ -32,10 +32,8 @@ Modelo utilizado para atualização da página.
 ## Versão Atual
 
 Atualização da página com novos aprendizados:
-- HTML semântico e identado;
-- CSS com flexbox e hover;
-- Comentários nos códigos;
-- CSS em ordem alfabética.
+| HTML semântico e identado | CSS com flexbox e hover
+| Comentários nos códigos | CSS em ordem alfabética
 
 <img src="./files/depois.jpg" alt="" width="100%">
 
