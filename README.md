@@ -31,9 +31,8 @@ Modelo utilizado para atualização da página.
 
 ## Versão Atual
 
-Atualização da página com novos aprendizados:
-| HTML semântico e identado | CSS com flexbox e hover
-| Comentários nos códigos | CSS em ordem alfabética
+Atualização da página com novos aprendizados:  
+| HTML semântico e identado | CSS com flexbox e hover | Comentários nos códigos | CSS em ordem alfabética |
 
 <img src="./files/depois.jpg" alt="" width="100%">
 
