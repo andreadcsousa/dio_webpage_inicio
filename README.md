@@ -1,4 +1,4 @@
-<p align="center"><img src="./files/img-repo.png" width="400"></p>
+<p align="center"><img src="./files/img-repo.png" width="600"></p>
 
 
 ## Sobre o Projeto
