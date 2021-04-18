@@ -10,7 +10,7 @@
 + HTML5
 + CSS3
 
-<img src="./files/shield.png" width="200">
+<p align="right"><img src="./files/shield.png" width="100"></p>
 
 ### Primeira Versão
 
