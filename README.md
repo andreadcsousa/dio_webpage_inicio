@@ -1,6 +1,6 @@
 <p align="center"><img src="./files/img-repo.png" width="600"></p>
 
-# Sobre o Curso
+# Sobre o Projeto/Curso
 
 Introdução a criação de websites com HTML5 e CSS3:
 - Introdução ao curso de HTML - Estrutura básica;
