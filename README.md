@@ -1,4 +1,5 @@
 <p align="center"><img src="./files/img-repo.png" width="600"></p>
+<p align="center"><a href="https://andreadcsousa.github.io/dio_webpage_inicio/">Veja a página</a></p>
 
 # Sobre o Projeto
 
