@@ -1,16 +1,8 @@
 <p align="center"><img src="./files/img-repo.png" width="600"></p>
 
-# Sobre o Projeto/Curso
+# Sobre o Projeto
 
-Introdução a criação de websites com HTML5 e CSS3:
-- Introdução ao curso de HTML - Estrutura básica;
-- Entendendo o que é semântica e sua importância;
-- Como usar tags para textos e links em HTML;
-- Como inserir imagens no site com a tag img;
-- Como organizar listas com as tags ul, ol e li;
-- Introdução ao curso e conceitos básicos do CSS3;
-- Estilizando elementos, textos e listas com CSS;
-- Propriedades de dimensões e alinhamentos de itens.
+A partir do curso de `Introdução a criação de websites com HTML5 e CSS3`, montei a estrutura básica da página. Entendendo o que é _semântica_ e a sua importância, utilizei tags para dividir o corpo da página (header, main e footer) e definir o conteúdo principal (section e article). Utilizei a tag _img_ como plano de fundo da página, no menu de navegação (com links _blank_ embutidos) e na apresentação. Organizei o menu com itens em uma _unordered list_, aplicando o layout de _flexbox_ para boa visualização em diferentes dispositivos. Na versão para PC, apliquei _hover_ no menu para destacar os itens ao passar do mouse e, também, inseri ícone como item de lista com _content_ ao tópicos da seção de preferências. Adicionei um _favicon_ semelhante ao ícone de estrela. Após concluir a página, criei outros dois arquivos CSS para aplicar os _media queries_ e fazer a página funcionar em dispositivos móveis. Com tudo pronto, organizei a _identação_, o CSS em ordem alfabética e inseri comentários aos códigos.
 
 # Linguagens Utilizadas
 
@@ -18,7 +10,7 @@ Introdução a criação de websites com HTML5 e CSS3:
 
 ## Primeira Versão
 
-HTML e CSS básico com imagens e links estilizados.
+HTML e CSS com imagens e links estilizados | Primeira página criada com passo-a-passo
 
 <img src="./files/antes.jpg" width="100%">
 
