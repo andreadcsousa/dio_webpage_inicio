@@ -3,7 +3,7 @@
 
 # Sobre o Projeto
 
-A partir do curso de `Introdução a criação de websites com HTML5 e CSS3`, montei a primeira página. 3 meses depois:
+A partir do curso de `Introdução a criação de websites com HTML5 e CSS3`, montei a primeira página. <u>3 meses depois:<u>
 
 Entendendo o que é _semântica_ e a sua importância, utilizei tags para dividir o corpo da página (header, main e footer) e definir o conteúdo principal (section e article). Utilizei a tag _img_ como plano de fundo da página, no menu de navegação (com links _blank_ embutidos) e antes da seção de apresentação. Organizei o menu com itens em uma _unordered list_, aplicando o layout de _flexbox_ para boa visualização em diferentes dispositivos. Optei por definir o tamanho das fontes em _rem_.
 
