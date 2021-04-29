@@ -1,5 +1,5 @@
 <p align="center"><img src="./files/img-repo.png" width="600"></p>
-<p align="center">✅<a href="https://andreadcsousa.github.io/dio_webpage_inicio/"> Veja a Página </a>✅<a href="https://github.com/andreadcsousa"> Meu Perfil </a>✅<a href="https://andreadcsousa.github.io/"> Outras Páginas </a></p>
+<p align="center">✅<a href="https://andreadcsousa.github.io/dio_webpage_inicio/"> Veja a Página </a>✅<a href="https://github.com/andreadcsousa"> Meu Perfil </a>✅<a href="https://andreadcsousa.github.io/"> Projetos </a></p>
 
 # Sobre o Projeto
 
